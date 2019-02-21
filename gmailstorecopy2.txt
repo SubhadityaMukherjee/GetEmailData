@@ -1,0 +1,3 @@
+532402212384-4mht7j7nd41ksgmti6jdk22ofd2ghd1l.apps.googleusercontent.com
+bS7d4erFLMDORlIuNiKMFtfY
+http://localhost:8000/
